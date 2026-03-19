@@ -1,8 +1,3 @@
-Data Frame 
+Website para descargar DataFrame
 
-import kagglehub
-
-# Download latest version
-path = kagglehub.dataset_download("amanalisiddiqui/fraud-detection-dataset")
-
-print("Path to dataset files:", path)
+https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset/data
